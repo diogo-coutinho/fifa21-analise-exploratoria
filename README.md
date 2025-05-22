@@ -2,17 +2,17 @@
 
 Este projeto apresenta uma análise exploratória dos dados dos jogadores do FIFA 21, com o objetivo de extrair insights sobre atributos como idade, valor de mercado, altura, peso, overall e potencial dos atletas.
 
-## 📊 Dataset
+## Dataset
 O dataset utilizado foi retirado do [Kaggle - FIFA 21 Player Data](https://www.kaggle.com/datasets/stefanoleone992/fifa-21-complete-player-dataset).
 
-## 📌 Objetivos
+## Objetivos
 
 - Verificar a distribuição de idade dos jogadores;
 - Identificar os top 10 jogadores com maior overall;
 - Visualizar a correlação entre atributos numéricos;
 - Analisar a distribuição de valor de mercado (€).
 
-## 🛠️ Ferramentas utilizadas
+## Ferramentas utilizadas
 
 - Python
 - Pandas
@@ -21,11 +21,11 @@ O dataset utilizado foi retirado do [Kaggle - FIFA 21 Player Data](https://www.k
 - Seaborn
 - Google Colab
 
-## 📈 Visualizações
+## Visualizações
 
 O projeto inclui histogramas, gráficos de barras, heatmap de correlação e boxplot para demonstrar os padrões presentes nos dados.
 
-## 🚀 Como usar
+## Como usar
 
 1. Clone o repositório:
 ```bash
@@ -39,6 +39,6 @@ pip install -r requirements.txt
 
 3. Abra o notebook no Jupyter ou no Google Colab.
 
-## 📬 Contato
+## Contato
 
-Feito por **Diogo Coutinho** – [LinkedIn](www.linkedin.com/in/diogo-coutinho-santos
+Feito por **Diogo Coutinho** – (www.linkedin.com/in/diogo-coutinho-santos)
